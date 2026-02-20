@@ -36,6 +36,6 @@ The dataset contains:
 # Business Value
 This project demonstrates how web scraping can be used to collect market data for salary benchmarking, career planning, and workforce analysis. It highlights practical skills in transforming unstructured web data into usable analytical datasets.
 
-Credit:
+# Credit:
 Data sourced from the IBM Skills Network Programming Languages dataset:
 https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-DA0321EN-SkillsNetwork/labs/datasets/Programming_Languages.html
