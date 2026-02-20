@@ -25,14 +25,17 @@ The final output file:
 📁 popular_languages.csv
 
 The dataset contains:
-Programming Language
-Average Salary
+1. Programming Language
+2. Average Salary
 
 # Key Insights
-Popular programming languages show varying salary trends
-Data extraction from HTML tables enables structured salary comparison
-Web scraping can automate labor market and compensation analysis
+1. Popular programming languages show varying salary trends
+2. Data extraction from HTML tables enables structured salary comparison
+3. Web scraping can automate labor market and compensation analysis
 
 # Business Value
 This project demonstrates how web scraping can be used to collect market data for salary benchmarking, career planning, and workforce analysis. It highlights practical skills in transforming unstructured web data into usable analytical datasets.
 
+Credit:
+Data sourced from the IBM Skills Network Programming Languages dataset:
+https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-DA0321EN-SkillsNetwork/labs/datasets/Programming_Languages.html
